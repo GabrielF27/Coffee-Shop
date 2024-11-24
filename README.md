@@ -9,4 +9,6 @@ Este projeto foi desenvolvido como parte das aulas da Trilha de CSS da DIO. O ob
 - **CSS3**
 - **Bootstrap**
 
+## Preview
+
 ![Preview](assets/Projeto-finalizado.png)
